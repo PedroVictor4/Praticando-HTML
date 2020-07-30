@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(241, 204, 200);
+    margin-left: 140px;
+
+}
+h1{
+    color:darkorange;
+    font-family: fantasy;
+}
+p{
+    font-size: large;
+}
+img{
+    margin-top:140px;
+}
+.img_clientes{
+    margin-bottom: 200px;
+    
+}
+footer{
+    background-color: darkred;
+}
